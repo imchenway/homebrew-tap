@@ -1,6 +1,6 @@
 cask "zeus" do
-  version "0.3.48"
-  sha256 "d60c7e1551c57546d1a40c3d386f6f5e0668a02e726baeee21cf8e959587cc34"
+  version "0.3.49"
+  sha256 "0160ffbc9716de855fc7dbeb16e984a3bc2d1f29ef865036d7e1ddcb59bef191"
 
   url "https://github.com/imchenway/zeus/releases/download/v#{version}/Zeus-#{version}-arm64.dmg"
   name "Zeus"
