@@ -1,6 +1,6 @@
 cask "zeus" do
-  version "0.4.97"
-  sha256 "41ab2a9729e58aeeddef0bb50231d6b00953494eb65b6a73e004ced324445f2e"
+  version "0.4.98"
+  sha256 "a8cf3d17733775f5d05674713f6662c374e40f9e86a1865442f50b53358fb032"
 
   url "https://zeus-download.hyphatech.cn/zeus/releases/#{version}/Zeus-#{version}-arm64.dmg"
   name "Zeus"
